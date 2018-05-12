@@ -1,0 +1,38 @@
+_repo: SaituriKomedia-5-ss--n-yt-ksess-_45649
+_version: 0.1.0
+alternative_title: L'avare. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molière
+    aliases:
+    - Moliere
+    - Molière, Jean Baptiste Poquelin de
+    - Poquelin de Molière, Jean Baptiste
+    - Poquelin, Jean-Baptiste
+    birthdate: 1622
+    deathdate: 1673
+    gutenberg_agent_id: '791'
+    url: http://www.gutenberg.org/2009/agents/791
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Moli%C3%A8re
+    - http://en.wikipedia.org/wiki/Moli%C3%A8re
+description: ''
+gutenberg_issued: '2014-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45649'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'Paris (France) -- Drama'
+- !lcc 'PQ'
+- !lcsh 'French drama -- 17th century -- Translations into Finnish'
+- !lcsh 'Misers -- Drama'
+title: 'Saituri: Komedia 5:ssä näytöksessä'
+url: http://www.gutenberg.org/ebooks/45649
